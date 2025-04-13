@@ -23,8 +23,8 @@ This project is a **handwritten digit recognition tool** built with **TensorFlow
 
 ## 🧩 Technologies Used
 
-- Python
-- TensorFlow / Keras
+- Python(3.9.0 is prefered)
+- TensorFlow / Keras(2.12.0 is preferred)
 - Tkinter (for GUI)
 - PIL (Python Imaging Library)
 - Matplotlib (for debug visualization)
